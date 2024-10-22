@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCastSender", "ConsoleApp4\MultiCastSender.csproj", "{9A0DE3F2-D65B-4D7F-9CB0-549F31427690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCastReciever", "ConsoleApp1\MultiCastReciever.csproj", "{BBB38940-EF1F-43A8-8505-9767C4C71205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrockCastSender", "BrockCastSender\BrockCastSender.csproj", "{70AF62A9-00E1-4983-9430-600327D8B107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrockCustReciever", "BrockCustReciever\BrockCustReciever.csproj", "{F5A745A0-1639-4564-A1A0-EB5071B680A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0DE3F2-D65B-4D7F-9CB0-549F31427690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0DE3F2-D65B-4D7F-9CB0-549F31427690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0DE3F2-D65B-4D7F-9CB0-549F31427690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0DE3F2-D65B-4D7F-9CB0-549F31427690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB38940-EF1F-43A8-8505-9767C4C71205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB38940-EF1F-43A8-8505-9767C4C71205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB38940-EF1F-43A8-8505-9767C4C71205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB38940-EF1F-43A8-8505-9767C4C71205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AF62A9-00E1-4983-9430-600327D8B107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AF62A9-00E1-4983-9430-600327D8B107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AF62A9-00E1-4983-9430-600327D8B107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AF62A9-00E1-4983-9430-600327D8B107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A745A0-1639-4564-A1A0-EB5071B680A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A745A0-1639-4564-A1A0-EB5071B680A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A745A0-1639-4564-A1A0-EB5071B680A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A745A0-1639-4564-A1A0-EB5071B680A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23BD6509-4B3E-43A7-A4A8-85F15FBBFE82}
+	EndGlobalSection
+EndGlobal
